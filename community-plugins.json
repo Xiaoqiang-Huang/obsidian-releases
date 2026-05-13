@@ -24134,5 +24134,12 @@
     "author": "imavinash",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Copy a citation with file link, line numbers, and a custom prompt for AI agents.",
     "repo": "avinashkanaujiya/obsidian-agentic-note-references"
+  },
+  {
+    "id": "personal-life-system",
+    "name": "个人人生系统",
+    "author": "Xiaoqiang Huang",
+    "description": "一个本地优先的人生管理系统：AI日记、待办管理、记忆系统、自我省察报告、考公学习与错题管理。",
+    "repo": "Xiaoqiang-Huang/obsidian-life-os"
   }
 ]
